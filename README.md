@@ -156,10 +156,7 @@ python analysis/bot_analyzer.py path/to/submission.log --symbol ASH_COATED_OSMIU
 ## How to Run
 
 These strategies are designed to run on the IMC Prosperity platform. Each `.py` file contains a `Trader` class with a `run()` method that the platform calls on every tick.
-
-1. Go to [prosperity.imc.com](https://prosperity.imc.com/)
-2. Upload any `.py` file as your algorithm
-3. Run a backtest or submit for the live competition
+As it is competetion specific It cannot be run outside 
 
 ## License
 
